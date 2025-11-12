@@ -1,0 +1,23 @@
+font-size :      text- (xs , sm , base , lg , xl , 2xl ...) / 1 ,2 3, -- line height
+font-weight :    font-[custom]
+line-height :    leading-5
+letter-spacing : tracking-[custom]  
+flex-wrap :      flex- (wrap , onwrap)
+line-clamp :     line- (1,2,3,4...) ("it is used for how much lines you want to show ?")
+font-family :    font-sans (sans , serif , mono) || font-[custom]
+list-style-position : list- (inside , outside) to show bullets of list inside or outside
+list-style-type : list- (disc , decimal , none) | list-[custom]
+text-align :     text- (center , left , right , bottom , justify , end , start)
+color :          text-blue-100/50   here /50 is trasparency
+text-decoration: underline , overline , no-underline , line-through
+decoration-style: decoration-dotted , solid , dashed , wavy
+text-overflow :  truncate , text-ellipsis , text-clip
+text-indent :    indent-[50%] | indent-4 empty space shown before text
+
+
+
+
+
+
+
+
